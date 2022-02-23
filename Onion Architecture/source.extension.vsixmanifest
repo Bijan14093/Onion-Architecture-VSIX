@@ -3,7 +3,8 @@
     <Metadata>
         <Identity Id="Onion_Architecture.c4575553-c164-44c6-a227-cf1c3043d038" Version="1.0" Language="en-US" Publisher="Bijan Ghasemi" />
         <DisplayName>Onion_Architecture</DisplayName>
-        <Description xml:space="preserve">Empty VSIX Project.</Description>
+        <Description xml:space="preserve">Clean Separation For Domain And Services From UI.</Description>
+        <Icon>onion.jpg</Icon>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />

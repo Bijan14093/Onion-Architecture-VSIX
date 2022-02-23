@@ -13,8 +13,8 @@
     <ProjectGuid>{A925813A-ABE0-4725-9E6D-74C0BE10D112}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Onion_Architecture</RootNamespace>
-    <AssemblyName>Onion Architecture</AssemblyName>
+    <RootNamespace>Simple_Onion_Architecture</RootNamespace>
+    <AssemblyName>Simple Onion Architecture</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <GeneratePkgDefFile>true</GeneratePkgDefFile>
     <UseCodebase>true</UseCodebase>
@@ -81,6 +81,12 @@
   <ItemGroup>
     <Folder Include="Test\" />
     <Folder Include="UI\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="onion.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\VSSDK\Microsoft.VsSDK.targets" Condition="'$(VSToolsPath)' != ''" />
