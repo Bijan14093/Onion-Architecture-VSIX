@@ -5,7 +5,9 @@
         <DisplayName>Onion_Architecture</DisplayName>
         <Description xml:space="preserve">C# API solution template built on Onion Architecture.
 Clean separation for Domain And Services From UI.</Description>
+        <GettingStartedGuide>Getting Stared Guide.docx</GettingStartedGuide>
         <Icon>onion.jpg</Icon>
+        <PreviewImage>onion.jpg</PreviewImage>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
