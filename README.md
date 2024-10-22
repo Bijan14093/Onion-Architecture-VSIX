@@ -1,5 +1,7 @@
 # Onion-Architecture-VSIX
 
-[VSIX](https://marketplace.visualstudio.com/items?itemName=Bijanghasemi.OnionArchitecture14001207)
+**Visual Studio Extention**
+
+please visit this link: [microsoft marketplace](https://marketplace.visualstudio.com/items?itemName=Bijanghasemi.OnionArchitecture14001207)
 
 
